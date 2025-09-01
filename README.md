@@ -35,6 +35,9 @@ Differential Expression Analysis (DEG)
 Principal Feature Analysis (PFA)
 
 
+Cell cycle Analysis
+
+
 
 For network analysis performed in the associated publication, please refer to my colleague’s GitHub repository.
 
